@@ -32,6 +32,9 @@ class Train(Transportation):
    def init( self, start, end, distance, stations ):
       Transportation.init( self, start, end, distance)
       self.stations = stations
+      
+   def find_cost( self ):
+      return self.stations * 5
 
 # main program
 
