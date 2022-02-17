@@ -37,8 +37,6 @@ Fox
 Gaur
 Gazelle
 Gerbil
-
------
 Giant Panda
 Giraffe
 Gnu
@@ -80,4 +78,35 @@ Oryx
 Otter
 Ox
 Panther
------
+Pig
+Poly
+Porcupine
+Porpoise
+Prairie Dog
+Rabbit
+Raccoon
+Ram
+Rat
+Red deer
+Red panda
+Reindeer (caribou)
+Rhinoceros
+Sea lion
+Seal
+Sheep
+Shrew
+Skunk
+Squirrel
+Tapir
+Tarsier
+Tiger
+Vicuna
+Wallaby
+Walrus
+Water buffalo
+Whale
+Wolf
+Wolverine
+Wombat
+Yak
+Zebra
