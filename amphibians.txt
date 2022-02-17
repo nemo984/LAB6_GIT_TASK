@@ -1,11 +1,4 @@
 Frog
-
-
-
-
-
-
-
------
 Newt
------
+Salamander
+Toad
