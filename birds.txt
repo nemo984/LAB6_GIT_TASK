@@ -16,19 +16,25 @@ Finch
 Flamingo
 
 -----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Goose
+Goldfinch
+Goshawk
+Grouse
+Guinea fowl
+Gull
+Hawk
+Heron
+Hummingbird
+Jay
+Jay, Blue
+Lapwing
+Lark
+Lyrebird
+Magpie
+Mallard
+Nightingale
+Ostrich
+Owl
+Parrot
+Partridge 
 -----
